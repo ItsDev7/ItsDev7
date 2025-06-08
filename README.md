@@ -77,3 +77,14 @@ class OsamaMorsy {
   };
   
 }
+
+---
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=ItsDev7&show_icons=true&theme=shades-of-purple" alt="ItsDev7 GitHub Stats">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ItsDev7&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages">
+</p>
+<p align="center">
+ <a href="https://komarev.com/ghpvc/?username=ItsDev7&style=for-the-badge">
+ <img src="https://komarev.com/ghpvc/?username=ItsDev7&style=for-the-badge" alt="Profile Views">
+ </a>
+ </p>
