@@ -26,11 +26,11 @@
 
 **Languages:**  
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen" alt="Python" style="height: 40px; margin-right: 8px;" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" alt="JavaScript" style="height: 40px; margin-right: 8px;" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" alt="Java" style="height: 40px; margin-right: 8px;" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" style="height: 40px; margin-right: 8px;" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#" style="height: 40px; margin-right: 8px;" />
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen" alt="Python" style="height: 30px; margin-right: 8px;" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" alt="JavaScript" style="height: 30px; margin-right: 8px;" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" alt="Java" style="height: 30px; margin-right: 8px;" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" style="height: 30px; margin-right: 8px;" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#" style="height: 30px; margin-right: 8px;" />
 </p>
 
 
