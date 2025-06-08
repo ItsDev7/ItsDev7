@@ -78,8 +78,6 @@ class OsamaMorsy {
   
 }
 ```
-ذذذذ
-
 ---
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=ItsDev7&show_icons=true&theme=shades-of-purple" alt="ItsDev7 GitHub Stats">
